@@ -1,2 +1,3 @@
 # hello-world
-learn github
+Jonathan Aparicio
+currently senior at Boise State Universtiy.
